@@ -1,0 +1,6 @@
+mermaid
+md-mermaid
+Markdown<3.2
+elasticsearch
+mdtable
+pyyaml
